@@ -10,8 +10,6 @@ https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/default.m3u8
 2) VseTV, 3623 каналов (+18)
 https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/VseTV.m3u8
 https://dl.dropbox.com/scl/fi/0l59va8if6ly3t8pxb549/3.m3u8?rlkey=tuju0ak1qnq9tyscshlhkazq3&st=1m86etbo&dl=0
---3) блочится, удалить, найти аналог
-https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/GoodstreemTV.m3u8
 
 обновляемые тв (5)
 0) IPTV_SHARED
