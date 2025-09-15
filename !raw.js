@@ -6,12 +6,12 @@ https://loganettv.vercel.app/
 https://tvsatclub.info/viewtopic.php?t=41&start=1760
 
 мои тв (3)
-1) https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/default.m3u8
-VseTV, 3623 каналов (+18)
-2) https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/VseTV.m3u8
+1) VseTV, 3623 каналов (+18)
+https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/default.m3u8
 путь) https://dl.dropbox.com/scl/fi/0l59va8if6ly3t8pxb549/3.m3u8?rlkey=tuju0ak1qnq9tyscshlhkazq3&st=1m86etbo&dl=0
-блочится goodstreem, удалить, найти аналог
-3) https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/GoodstreemTV.m3u8
+2) https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/VseTV.m3u8
+3) блочится goodstreem, удалить, найти аналог
+https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/GoodstreemTV.m3u8
 
 обновляемые тв (5)
 0) https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u
