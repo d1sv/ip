@@ -16,7 +16,7 @@ https://dl.dropbox.com/scl/fi/0l59va8if6ly3t8pxb549/3.m3u8?rlkey=tuju0ak1qnq9tys
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u
 0) loganettv
 https://loganettv.vercel.app/all.m3u
-46) ProkazovTV, 3317 каналов
+46) ProkazovTV, 3317 каналов (+18)
 http://ournet.live/tv/igorprokazov.m3u
 49) EdemTV, 2828 каналов
 http://2906ada53139.mylistbest.net/playlists/uplist/efb9c4f04d9b67fadc2e974a6e0f9cba/playlist.m3u8
