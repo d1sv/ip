@@ -36,3 +36,6 @@ http://8077a3b70137.ottclub.net/playlists/uplist/f07f3c86fb04a2c3395fc84825335c5
 http://091317bca1db.zatikov.net/playlists/uplist/ec646e7a7e3959a7a3d87147be9036ee/playlist.m3u8
 4) 3976 каналов (+18)
 http://c3483abb0722.mylistbest.com/playlists/uplist/8009d6f72104b48ca1df3ee91abc88db/playlist.m3u8
+5) 5087 каналов (+18)
+http://b6f447fdcc37.iedem.com/playlists/uplist/0dc001c838296c708f4c476386926b41/playlist.m3u8
+
