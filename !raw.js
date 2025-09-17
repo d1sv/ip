@@ -102,3 +102,21 @@ http://66088485aba9.faststreem.org/playlists/uplist/47aabae6973d5a57224ee1035c4b
 http://b06baaaa9a37.mylistbest.net/playlists/uplist/e664e7c2608088ad3d57e5c4b2f7b754/playlist.m3u8
 http://cdb94bcbd4a1.iedem.com/playlists/uplist/e9306ae15cb8ef893b475de5612f7385/playlist.m3u8
 http://daf9c15202f4.mylistbest.com/playlists/uplist/a5bf26bbaf3356bc5041ac095c7f5403/playlist.m3u8
+
+### https://tvsatclub.info/viewtopic.php?t=549&hilit=Cardsharing&start=80
+https://m3url.ru/154859.m3u 
+https://m3url.ru/250443.m3u 
+https://m3url.ru/252983.m3u  https://m3url.ru/322431.m3u 
+https://m3url.ru/33363.m3u  https://m3url.ru/344377.m3u 
+https://m3url.ru/355095.m3u  https://m3url.ru/359065.m3u 
+https://m3url.ru/429087.m3u  https://m3url.ru/438870.m3u 
+https://m3url.ru/43943.m3u  https://m3url.ru/538199.m3u 
+https://m3url.ru/583529.m3u  https://m3url.ru/587739.m3u 
+https://m3url.ru/588894.m3u  https://m3url.ru/622428.m3u 
+https://m3url.ru/658981.m3u  https://m3url.ru/772732.m3u 
+https://m3url.ru/778192.m3u  https://m3url.ru/80209.m3u 
+https://m3url.ru/812366.m3u  https://m3url.ru/820457.m3u 
+https://m3url.ru/82438.m3u  https://m3url.ru/884223.m3u 
+https://m3url.ru/885233.m3u  https://m3url.ru/868153.m3u 
+https://m3url.ru/953322.m3u  https://m3url.ru/967943.m3u 
+https://m3url.ru/968497
