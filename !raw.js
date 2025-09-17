@@ -38,11 +38,10 @@ http://091317bca1db.zatikov.net/playlists/uplist/ec646e7a7e3959a7a3d87147be9036e
 http://c3483abb0722.mylistbest.com/playlists/uplist/8009d6f72104b48ca1df3ee91abc88db/playlist.m3u8
 5) 5087 каналов (+18)
 http://b6f447fdcc37.iedem.com/playlists/uplist/0dc001c838296c708f4c476386926b41/playlist.m3u8
+http://88aafdb5130b.iedem.com/playlists/uplist/1b8304aa076ebd78857928cb36079442/playlist.m3u8
 6) 3976 каналов (+18)
 http://d18ce4413cf9.yourlistbest.net/playlists/uplist/8bbd274ad53bbd0e53038c8ecdf9d93f/playlist.m3u8
-7) 3976 каналов (+18)
-http://88aafdb5130b.iedem.com/playlists/uplist/1b8304aa076ebd78857928cb36079442/playlist.m3u8
-
+http://76cf04621ea7.yourlistbest.net/playlists/uplist/a198067d5fc4e8b4128a46ecbca69611/playlist.m3u8
 
 ### список
 http://ede2e0390e37.mylistbest.com/playlists/uplist/7ac5e84f59e0f07a23b52a733699f989/playlist.m3u8
