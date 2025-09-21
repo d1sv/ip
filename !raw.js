@@ -7,7 +7,7 @@ https://loganettv.vercel.app/
 https://tvsatclub.info/viewtopic.php?t=41&start=1760
 
 ### мои тв (3)
-1) default + VseTV
+1) default + пусто
 https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/default.m3u8
 2) VseTV, 3623 каналов (+18)
 https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/VseTV.m3u8
