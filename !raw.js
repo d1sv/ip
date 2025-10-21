@@ -7,6 +7,12 @@ https://loganettv.vercel.app/
 https://tvsatclub.info/viewtopic.php?t=41&start=1760
 
 ### мои тв (3)
+0) viplime (без +18)
+http://cdntv.online/high/r4m6asczf2/playlist.m3u8
+http://cdntv.online/hls/r4m6asczf2/playlist.m3u8
+http://cdntv.online/low/r4m6asczf2/playlist.m3u8
++ кино
+http://m.cdntv.online/f/r4m6asczf2/playlist.m3u8
 1) default + пусто
 https://raw.githubusercontent.com/d1sv/ip/refs/heads/main/default.m3u8
 2) VseTV, 3623 каналов (+18)
